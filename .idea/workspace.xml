@@ -3,50 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f09560e9-84c8-4b1d-b7cf-d774a6e8e8c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bloks/photo-grid/photo-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/photo-grid/photo-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/__logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cover-trains.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/cover-trains.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-grid__item9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/place-altay.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/place-kareliya.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/place-kolskiy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/place-kyrshskaya-kosa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/place-zimniy-baykal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/__item.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/__item3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/cover-trains.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/header-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/lead-polka.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-arisa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-atharva-tulsi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-baikal-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-baikal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-elbrus.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-ergaki.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-kamchatka-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-kamchatka-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-kondratiev.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-sochi.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-train.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/photo-grid-tuman.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/place-altai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/place-karelia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/place-kolsky.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/place-kosa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sprint-3-images/place-winter-baikal.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/russian-travel.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/lead/lead.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/lead/lead.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/Inter-3.15/Inter_Web/inter.css" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/Inter-3.15/Inter_Web/inter.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +59,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609218670721</updated>
       <workItem from="1609218684805" duration="82134000" />
-      <workItem from="1609755432021" duration="13393000" />
+      <workItem from="1609755432021" duration="14102000" />
     </task>
     <servers />
   </component>
