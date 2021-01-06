@@ -1,0 +1,8 @@
+.lead__image{
+    position: relative;
+    margin: 0 auto 8px;
+    width: 100%;
+    max-width: 984px;
+    padding-bottom: 63%;
+    background: url('../../../images/lead-route.svg') 0 75px/100% no-repeat, url('../../../images/lead-polka.jpg') 0 0/100% no-repeat;
+}

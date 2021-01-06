@@ -1,0 +1,9 @@
+.cover__wrapper{
+    margin: 92px auto 0;
+    position: relative;
+    background: url("../../../images/cover-trains.jpg") 0 0/cover no-repeat;
+    max-width: 1184px;
+    /*height: 740px;*/
+    object-fit: contain;
+    overflow: hidden;
+}

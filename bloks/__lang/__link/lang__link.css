@@ -1,0 +1,7 @@
+.lang__link{
+    color: #fff;
+    text-decoration: none;
+}
+.lang__link:hover{
+    text-decoration: underline;
+}
