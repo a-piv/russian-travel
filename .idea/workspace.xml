@@ -3,7 +3,45 @@
   <component name="ChangeListManager">
     <list default="true" id="f09560e9-84c8-4b1d-b7cf-d774a6e8e8c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__cover/__subtitle/cover__subtitle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__cover/__title/cover__title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__cover/__wrapper/cover__wrapper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__cover/cover.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__footer/__link-menu/footer__link-menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__footer/__link/footer__link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__footer/__links/footer__links.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__footer/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__header/__logo/header__logo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__header/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__intro/__list-item/_number/intro__list-item_number.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__intro/__list-item/intro__list-item.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__intro/__list/intro__list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__intro/__text/intro__text.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__intro/__title/intro__title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__intro/intro.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__lang/__link/lang__link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__lang/__list-link/lang__list-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__lang/lang.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__lead/__caption/lead__caption.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__lead/__image-photo/lead__image-photo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__lead/__image-route/lead__image-route.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__lead/__image/lead__image.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__lead/__subtitle/lead__subtitle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__lead/__title/lead__title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__lead/lead.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__photo-grid/__image/photo-grid__image.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__photo-grid/photo-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__places/place/__image/place__image.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__places/place/__link/place__link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__places/place/__paragraph-artikle/place__paragraph-artikle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__places/place/__paragraph/place__paragraph.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__places/place/__title/place__title.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__places/place/__url-heading/place__url-heading.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__places/place/__website/place__website.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__places/place/place.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/__places/places.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bloks/body.css" beforeDir="false" afterPath="$PROJECT_DIR$/bloks/body/body.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +83,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Kotik\YandexDisk\My\YaPraktikum\russian-travel\bloks\body" />
+      <recent name="C:\Users\Kotik\YandexDisk\My\YaPraktikum\russian-travel\bloks" />
       <recent name="C:\Users\Kotik\YandexDisk\My\YaPraktikum\russian-travel\bloks\__footer\__link" />
       <recent name="C:\Users\Kotik\YandexDisk\My\YaPraktikum\russian-travel" />
       <recent name="C:\Users\Kotik\YandexDisk\My\YaPraktikum\russian-travel\pages" />
@@ -59,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609218670721</updated>
       <workItem from="1609218684805" duration="82134000" />
-      <workItem from="1609755432021" duration="31229000" />
+      <workItem from="1609755432021" duration="32584000" />
     </task>
     <servers />
   </component>
