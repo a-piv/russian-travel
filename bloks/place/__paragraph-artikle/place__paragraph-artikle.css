@@ -1,8 +1,0 @@
-.place__paragraph-artikle{
-    list-style-type: none;
-    text-decoration: none;
-    margin-bottom: 26px;
-}
-.place__paragraph-artikle:last-child{
-    margin-bottom: 0;
-}
