@@ -11,6 +11,12 @@
 @media all and (max-width: 768px) {
     .footer {
         padding: 88px 24px 24px;
+        /*flex-direction: column;*/
+    }
+}
+
+@media all and (max-width: 580px) {
+    .footer {
         flex-direction: column;
     }
 }

@@ -7,11 +7,12 @@
     max-width: 1184px;
 }
 
-@media all and (max-width: 720px) {
+@media all and (max-width: 768px) {
     .header {
         padding: 28px 24px 0;
     }
 }
+
 @media all and (max-width: 320px) {
     .header {
         padding: 16px 16px 0;
