@@ -3,7 +3,6 @@
     box-sizing: border-box;
     background-color: rgba(42, 44, 47, .3);
     max-width: 1184px;
-    max-height: 740px;
     padding-top: 245px;
     padding-bottom: 245px;
     padding-left: calc((100% - 560px)/2);
@@ -19,28 +18,22 @@
 @media all and (max-width: 1024px){
     .cover__title-link{
         padding-top: 195px;
+        padding-bottom: 195px;
         width: 100%;
-        max-height: 640px;
     }
 }
 
 @media all and (max-width: 768px){
     .cover__title-link{
         padding-top: 115px;
-        max-height: 480px;
+        padding-bottom: 115px;
     }
 }
 
 @media all and (max-width: 500px){
     .cover__title-link{
-
         padding: 33px 16px 33px;
     }
 }
 
-@media all and (max-width: 320px){
-    .cover__title-link{
-        padding-top: 33px;
-        max-height: 200px;
-    }
-}
+
